@@ -1,0 +1,110 @@
+/*
+* @Author: andy
+* @Date:   2017-12-13 11:19:05
+* @Last Modified by:   andy
+* @Last Modified time: 2017-12-13 11:19:05
+*/
+/* 版心 */
+.w {
+    width: 1190px;
+    margin: auto;
+}
+
+.fr {
+    float: right;
+}
+
+.fl {
+    float: left;
+}
+
+.style-red {
+    color: #f10215 !important;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+input, button {
+    padding: 0;
+    border: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+@font-face {
+    font-family: 'icomoon';
+    src: url('../fonts/icomoon.eot?axvffw');
+    src: url('../fonts/icomoon.eot?axvffw#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?axvffw') format('truetype'),
+    url('../fonts/icomoon.woff?axvffw') format('woff'),
+    url('../fonts/icomoon.svg?axvffw#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: #F6F6F6;
+}
+
+.J_event {
+    background-color: #212425;
+}
+
+.J_event a {
+    position: relative;
+    height: 80px;
+    display: block;
+    background: url("../images/top.jpg") no-repeat;
+}
+
+.J_event i {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 0;
+    top: 5px;
+    font-family: "icomoon";
+    font-style: normal;
+    text-align: center;
+    line-height: 20px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.4);
+
+}
+
+.shortcut {
+    height: 30px;
+    border-bottom: 1px solid #ddd;
+    background-color: #e3e4e5;
+}
+
+.shortcut li {
+    height: 100%;
+    line-height: 30px;
+}
+
+i {
+
+    width: 20px;
+    height: 20px;
+    font-family: "icomoon";
+    font-style: normal;
+    text-align: center;
+    line-height: 20px;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.4);
+}
+
+
+
+
+
